@@ -1,13 +1,12 @@
 
-title: LiteGapps
-email: litegapps@gmail.com
-description: "The LiteGapps Project Official Website"
+title: GappsLite
+email: GappsLite
+description: "GappsLite"
 baseurl: "/"
-google_site_verification: "94rkeyddW-e9GtaJKEc9vvHYylZvmO9XxdQKoEJ7zTU"
-url: "wahyu6070.github.io"
-twitter_username: litegapps
-github_username:  litegapps
-author: wahyu6070
+url: "gappslite.github.io"
+twitter_username: gappslite
+github_username:  gappslite
+author: gappslite
 
 # Build settings
 theme: minima
